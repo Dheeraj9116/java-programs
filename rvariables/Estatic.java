@@ -2,19 +2,19 @@
 		package rvariables;
 
 
-		class Res
+		class Re
 		{
 			static int as=53;
 		}
 
 
-		public class Instancevariable 
+		public class Estatic 
 		{
 
 			public static void main(String[] args) 
 			{
 				
-				System.out.println(Res.as);
+				System.out.println(Re.as);
 			}
 		}
 

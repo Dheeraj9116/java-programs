@@ -8,7 +8,7 @@ public class Varloc{
 		System.out.println(var1);
 	}
 	
-}
+
 
 	
 	public static void main(String[] args) 
