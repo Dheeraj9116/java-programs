@@ -3,9 +3,19 @@ package operators;
 public class Assi {
 
 	public static void main(String[] args) {
-		int a=5,b;
-	  
-
+		int x=5;
+		//x += 5;
+		//x -= 3;
+		//x *= 3;
+		//x /= 3;
+		//x %= 3;
+		//x &= 3;
+		//x |= 3;
+		//x ^= 3;
+		//x >>= 3;
+		//x <<= 3;
+		System.out.println(x);
+        
 	}
 
 }
