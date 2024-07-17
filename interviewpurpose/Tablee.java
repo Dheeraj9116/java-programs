@@ -1,4 +1,4 @@
-package table;
+package interviewpurpose;
 
 import java.util.Scanner;
 

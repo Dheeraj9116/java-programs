@@ -1,4 +1,4 @@
-package simpleint;
+package interviewpurpose;
 
 import java.util.Scanner;
 

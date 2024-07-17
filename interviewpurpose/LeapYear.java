@@ -1,8 +1,8 @@
-package Leapy;
+package interviewpurpose;
 
 import java.util.Scanner;
 
-public class Leap {
+public class LeapYear {
 
 	public static void main(String[] args) {
 		int rq;

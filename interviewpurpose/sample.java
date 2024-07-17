@@ -1,4 +1,4 @@
-package sample;
+package interviewpurpose;
 
 public class sample {
 	public int add(int a,int b) {

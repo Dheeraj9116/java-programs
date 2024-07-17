@@ -1,8 +1,9 @@
-package Sod;
+package interviewpurpose;
 
 import java.util.Scanner;
 
-public class Sod {
+public class SumofDigits {
+	
 
 	public static void main(String[] args) {
 		int num,sum=0;
@@ -18,3 +19,6 @@ public class Sod {
 	}
 
 }
+	
+
+

@@ -1,5 +1,6 @@
-package sample;
-public class Fopart {
+package interviewpurpose;
+public class FloatingPointArithmetic
+ {
     public static void main(String[] args) {
         double num1 = 10.5;
         double num2 = 5.2;

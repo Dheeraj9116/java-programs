@@ -1,6 +1,6 @@
-package sample;
+package interviewpurpose;
 
-public class Dtring{
+public class DStringMethods{
 
 public static void main(String args[])
 {
