@@ -2,7 +2,7 @@ package oops;
 
 class A
 {
-	 void show(int x)
+	 void show()
 	{
 		System.out.println("asdf qwerty");
 	}
